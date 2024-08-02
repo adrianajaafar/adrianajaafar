@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adriana Jaafar (@adrianajaafar)
 
-Welcome to my GitHub profile! I'm a 23-year-old data scientist and recent graduate with a strong passion for leveraging data to solve complex problems and uncover actionable insights. Let’s turn data into TA-DA!
+Welcome to my GitHub profile! I'm a 23-year-old aspiring data scientist and recent graduate with a strong passion for leveraging data to solve complex problems and uncover actionable insights. Let’s turn data into TA-DA!
 
 ## 📂 Data Science Portfolio
 
