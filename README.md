@@ -1,6 +1,16 @@
 # 👋 Hi, I’m Adriana Jaafar (@adrianajaafar)
 
-Welcome to my GitHub profile! I'm a passionate data scientist with a strong interest in leveraging data to solve complex problems and uncover actionable insights. Let's Turning Data into TA-DA!
+Welcome to my GitHub profile! I'm a 23-year-old data scientist and recent graduate with a strong passion for leveraging data to solve complex problems and uncover actionable insights. Let’s turn data into TA-DA!
+
+## 📂 Data Science Portfolio
+
+Check out my **[Data Science Portfolio](https://github.com/adrianajaafar/DATA-SCIENCE-PORTFOLIO)** for a collection of my data science projects. Highlights include:
+
+- **Reddit Comment Analysis and Emotion Detection:** Developed a model to predict sentiment and emotion in Reddit comments related to AI and job security using NLP and neural networks.
+  
+- **Optimizing Loan Approval Predictions:** Built and evaluated various machine learning models to predict loan approval status, with the highest accuracy achieved by a Logistic Regression model.
+
+Explore the projects to see how I apply data science techniques to real-world problems and drive actionable insights.
 
 ## 👀 I’m interested in:
 - Data analysis and visualization
